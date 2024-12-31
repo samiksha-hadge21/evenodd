@@ -1,0 +1,48 @@
+body{
+    background-color: purple;
+}
+#pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#num{
+    border-radius: 20px;
+    height: 40px;
+    width: 300px;
+    padding-left: 10px;
+  
+
+}
+#new{
+   
+    height: 300px;
+    width: 500px;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    background-color: purple;
+    padding-top: 90px;
+}
+
+button{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+
+#Result{
+    color: antiquewhite;
+}
+
+h1{
+    
+    color: antiquewhite;
+    font-size: 40px;
+    background-color: rgb(55, 16, 55);
+    border-radius: 20px;
+  
+}
